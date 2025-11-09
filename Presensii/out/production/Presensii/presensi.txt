@@ -1,0 +1,5 @@
+1234,Dennis Ferdinand,Pemrograman berbasis Objek Lanjutan,Albertus Agung,1,2025-10-18,Hadir
+21534005,Maul Ibrahim,Struktur Data non Linear,Dosen Tidak Diketahui,1,2025-10-18,Hadir
+1234,Dennis Ferdinand,Sistem Cerdas,Romo Kuncoro Adi S.J,1,2025-10-18,Izin
+225314127,Adam Adenan,Pemrograman berbasis Objek Lanjutan,Albertus Agung,2,2025-10-19,Hadir
+1234,Dennis Ferdinand,Pemrograman berbasis Objek Lanjutan,Albertus Agung,2,2025-10-19,Alpha

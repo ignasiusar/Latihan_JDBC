@@ -1,0 +1,5 @@
+12345,abcd,Mahasiswa A
+67890,pass123,Mahasiswa B
+1234,DennisF12,Dennis Ferdinand
+21534005,Mawul12,Maul Ibrahim
+225314127,Perunggu12,Adam Adenan

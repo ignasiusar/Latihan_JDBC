@@ -1,0 +1,3 @@
+Pemrograman berbasis Objek Lanjutan,Albertus Agung,2
+Stuktur Data non Linear,JB.Budi Darmawan,0
+Sistem Cerdas,Romo Kuncoro Adi S.J,1
